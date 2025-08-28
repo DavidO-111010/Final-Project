@@ -191,19 +191,44 @@ footer{
     font-size: 10px;
     color: white;
     height: 150px;
+    margin-top: 100px;
 }
 
 footer section{
     display: flex;
+    font-size: 20px;
 }
 
 .foot{
+    color:  rgb(26, 188, 156);
+    margin-left: 20px;
+    font-size: 20px;
+    transform: translateY(50px);
+}
+
+.mid{
+    font-size: 20px;
     color: white;
+    margin-left: 550px;
+    transform: translateY(20px);
+}
+
+.fir{
+    font-size: 20px;
+    color: white;
+    transform: translateY(50px);
+
 }
 
 .footer{
     display: flex;
     flex-direction: row;
+}
+
+.footim{
+    margin-left: 980px;
+    gap: 30px;
+    width: 270px;
 }
 
 .circle{
